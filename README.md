@@ -34,7 +34,7 @@ Qualification: MICT SETA Accredited National Certificate - Information Technolog
 <img align="left" alt="Spring" width="80px" style="padding-right:10px;" src="Linux.png" />
 </a>
 
-
+<p><br></p>
 <br/><br />
 
 # 🤖 Programming Languages and Tools

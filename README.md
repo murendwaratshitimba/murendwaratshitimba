@@ -39,7 +39,7 @@ Qualification: MICT SETA Accredited National Certificate - Information Technolog
 <br/><br />
 
 ---
-# 🤖 Programming Languages and Tools
+# 🤖 **`Programming Languages and Tools`**
 
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://icongr.am/devicon/python-original.svg?size=128&color=currentColor"/>
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://icongr.am/devicon/git-original.svg?size=128&color=currentColor"/>
@@ -58,7 +58,7 @@ Qualification: MICT SETA Accredited National Certificate - Information Technolog
 
 ---
 
-# **`Social`**
+# 🌐 **`Social`**
 
 <div align="left">
   <a href="https://www.linkedin.com/in/murendwaratshitimba" target="_blank">

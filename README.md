@@ -19,6 +19,11 @@ I'm a WeThinkCode software Engineering graduate, honored with a fellowship award
 Qualification: MICT SETA Accredited National Certificate - Information Technologies - NQF level 5 in System Development
 </p>
 
+<img src="graduate.jpg" alt="Graduation" >
+
+---
+
+
 
 
 

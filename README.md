@@ -13,7 +13,7 @@ I'm a WeThinkCode software Engineering graduate, honored with a fellowship award
 
 ---
 
-🎓 Education
+# 🎓 **`Education`**
 
 <img src="wtc.png" alt="Smiley face" style="float:left;width:50px;height:50px;">
 Qualification: MICT SETA Accredited National Certificate - Information Technologies - NQF level 5 in System Development
@@ -21,7 +21,24 @@ Qualification: MICT SETA Accredited National Certificate - Information Technolog
 
 <img src="graduate.jpg" alt="Graduation" style="width:500px;">
 
+
 ---
+
+# 📜 **`International Certifications and badges`**
+
+<a href="https://www.credly.com/badges/d3155bca-977a-4247-a3e5-47f7a5181d8d" target="_blank">
+<img align="left" alt="Python " width="80px" style="padding-right:10px" src="python.png"/> 
+</a>
+
+<a href="https://www.credly.com/badges/ff5b4ab4-1b19-4c91-93a4-cc405b46f1a7" target="_blank">
+<img align="left" alt="Spring" width="80px" style="padding-right:10px;" src="Linux.png" />
+</a>
+
+
+<br/><br />
+
+# 🤖 Programming Languages and Tools
+
 
 
 

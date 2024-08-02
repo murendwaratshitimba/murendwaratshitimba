@@ -26,6 +26,7 @@ Qualification: MICT SETA Accredited National Certificate - Information Technolog
 
 # 📜 **`International Certifications and badges`**
 
+
 <a href="https://www.credly.com/badges/d3155bca-977a-4247-a3e5-47f7a5181d8d" target="_blank">
 <img align="left" alt="Python " width="80px" style="padding-right:10px" src="python.png"/> 
 </a>
@@ -39,6 +40,35 @@ Qualification: MICT SETA Accredited National Certificate - Information Technolog
 
 ---
 # 🤖 Programming Languages and Tools
+
+<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://icongr.am/devicon/python-original.svg?size=128&color=currentColor"/>
+<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://icongr.am/devicon/git-original.svg?size=128&color=currentColor"/>
+<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://icongr.am/devicon/html5-original.svg?size=128&color=currentColor"/>
+<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://icongr.am/devicon/java-original.svg?size=128&color=currentColor"/>
+<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://icongr.am/devicon/javascript-original.svg?size=128&color=currentColor"/>
+<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://icongr.am/devicon/linux-original.svg?size=128&color=currentColor"/>
+<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://icongr.am/devicon/docker-original.svg?size=128&color=currentColor"/>
+<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://icongr.am/devicon/postgresql-original.svg?size=128&color=currentColor"/>
+<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://icongr.am/devicon/vim-original.svg?size=128&color=currentColor"/>
+<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://icongr.am/devicon/css3-original.svg?size=128&color=currentColor"/>
+<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://icongr.am/devicon/cplusplus-original.svg?size=128&color=currentColor"/>
+
+<p><br><br></p>
+<br/>
+
+---
+
+# **`Social`**
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/murendwaratshitimba" target="_blank">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+ 
+  <a href="https://www.youtube.com/channel/UCm3moBxexOnsaGSMoquscHg" target="_blank"> 
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
+  </a>
+</div>
 
 
 

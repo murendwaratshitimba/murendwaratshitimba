@@ -14,24 +14,28 @@
 ---
 
 ### 💻 Programming Languages
+<br>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,java,cs,cpp,js,php&theme=dark&perline=7" />
 </p>
-
+<br>
 ### 🌐 Web Development
+<br>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,react,vue,angular,nodejs&theme=dark&perline=7" />
 </p>
-
+<br>
 ### 🗄️ Databases & Cloud
 <p align="center">
   <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,aws,azure,gcp,docker&theme=dark&perline=9" />
 </p>
 
 ### ⚙️ Tools & Platforms
+<br>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=git,github,gitlab,bitbucket,linux,bash,vscode,idea&theme=dark&perline=9" />
 </p>
+<br>
 
 ---
 

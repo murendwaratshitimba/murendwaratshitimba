@@ -102,27 +102,6 @@
       <br>
     </td>
     
-    <!-- Playlist 2 -->
-    <td align="center" width="200">
-      <a href="https://www.youtube.com/playlist?list=YOUR_PLAYLIST_ID_2" target="_blank">
-        <img src="https://img.youtube.com/vi/VIDEO_ID_2/mqdefault.jpg" width="180" alt="Playlist Thumbnail" />
-      </a>
-      <br>
-      <strong>Project Builds</strong>
-      <br>
-      <sub>Full project implementations</sub>
-    </td>
-    
-    <!-- Playlist 3 -->
-    <td align="center" width="200">
-      <a href="https://www.youtube.com/playlist?list=YOUR_PLAYLIST_ID_3" target="_blank">
-        <img src="https://img.youtube.com/vi/VIDEO_ID_3/mqdefault.jpg" width="180" alt="Playlist Thumbnail" />
-      </a>
-      <br>
-      <strong>Coding Tips</strong>
-      <br>
-      <sub>Best practices & shortcuts</sub>
-    </td>
   </tr>
 </table>
 

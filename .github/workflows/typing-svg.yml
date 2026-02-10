@@ -1,0 +1,28 @@
+name: Update Typing SVG
+on:
+  push:
+    branches: [ main ]
+  schedule:
+    - cron: '0 0 * * *'  # Daily update
+
+jobs:
+  update-typing:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - uses: DenverCoder1/readme-typing-svg@main
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          lines: |
+            Hi 👋, I'm MurexTheCoder
+            Software Engineer
+            Problem Solver
+            Continuous Learner
+          filename: assets/typing.svg
+      - name: Commit and push if changed
+        run: |
+          git config --global user.name 'github-actions'
+          git config --global user.email 'github-actions@github.com'
+          git add -A
+          git commit -m "Update typing SVG" || exit 0
+          git push

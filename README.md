@@ -8,10 +8,7 @@
 </h1>
 
 
-<br>
-<h2 align="center"> 🔥 Tech Stack & Expertise </h2>
-<br>
-
+## 🔥 Tech Stack & Expertise
 
 
 ### 💻 Programming Languages

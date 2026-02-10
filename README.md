@@ -88,27 +88,43 @@
 
 <br>
 
-## 🎥 YouTube Content
+## 🎬 YouTube Playlists
 
-<div align="center">
-  
-  ### 🔥 Featured Playlists
-  
-  <!-- Playlist 1 -->
-  <a href="https://www.youtube.com/playlist?list=PL7io6mkQl2_uwbXbsQ3o5S1MWqqNDXurH" target="_blank">
-    <img src="https://img.shields.io/badge/-Tutorials-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
-  </a>
-  <a href="https://www.youtube.com/playlist?list=PL7io6mkQl2_smw5eLRu5m44WDJkokVLMO" target="_blank">
-    <img src="https://img.shields.io/badge/-Coding%20Tips-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
-  </a>
-  <a href="https://www.youtube.com/playlist?list=PL7io6mkQl2_so8AZrwQTmiLwu3aTNZdAZ" target="_blank">
-    <img src="https://img.shields.io/badge/-Project%20Walkthroughs-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
-  </a>
-  
-  <br><br>
-
-  
-</div>
+<table align="center">
+  <tr>
+    <!-- Playlist 1 -->
+    <td align="center" width="200">
+      <a href="https://www.youtube.com/playlist?list=PL7io6mkQl2_uwbXbsQ3o5S1MWqqNDXurH" target="_blank">
+        <img src="https://img.youtube.com/vi/VIDEO_ID_1/mqdefault.jpg" width="180" alt="Playlist Thumbnail" />
+      </a>
+      <br>
+      <strong>Python Tutorials</strong>
+      <br>
+    </td>
+    
+    <!-- Playlist 2 -->
+    <td align="center" width="200">
+      <a href="https://www.youtube.com/playlist?list=YOUR_PLAYLIST_ID_2" target="_blank">
+        <img src="https://img.youtube.com/vi/VIDEO_ID_2/mqdefault.jpg" width="180" alt="Playlist Thumbnail" />
+      </a>
+      <br>
+      <strong>Project Builds</strong>
+      <br>
+      <sub>Full project implementations</sub>
+    </td>
+    
+    <!-- Playlist 3 -->
+    <td align="center" width="200">
+      <a href="https://www.youtube.com/playlist?list=YOUR_PLAYLIST_ID_3" target="_blank">
+        <img src="https://img.youtube.com/vi/VIDEO_ID_3/mqdefault.jpg" width="180" alt="Playlist Thumbnail" />
+      </a>
+      <br>
+      <strong>Coding Tips</strong>
+      <br>
+      <sub>Best practices & shortcuts</sub>
+    </td>
+  </tr>
+</table>
 
 <br>
 

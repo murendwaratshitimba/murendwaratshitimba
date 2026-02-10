@@ -8,8 +8,6 @@
 </h1>
 
 
-## 🔥 Tech Stack & Expertise
-
 
 ### 💻 Programming Languages
 <br>

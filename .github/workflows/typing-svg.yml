@@ -18,7 +18,7 @@ jobs:
             Software Engineer
             Problem Solver
             Continuous Learner
-          filename: assets/typing.svg
+          filename: typing.svg
       - name: Commit and push if changed
         run: |
           git config --global user.name 'github-actions'

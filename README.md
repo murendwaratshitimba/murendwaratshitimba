@@ -66,21 +66,25 @@
 
 ## 📈 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=murendwaratshitimba&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=murendwaratshitimba&theme=tokyonight&hide_border=true" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=murendwaratshitimba&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+###
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/murendwaratshitimba/murendwaratshitimba/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/murendwaratshitimba/murendwaratshitimba/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/murendwaratshitimba/murendwaratshitimba/output/pacman-contribution-graph.svg">
+</picture>
+
+###
 ---
 
 ## 🚀 What Drives Me
 
 - 🔥 Deep passion for Information Technology  
 - 📚 Constant learning & self-i
+
+

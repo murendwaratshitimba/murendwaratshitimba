@@ -4,7 +4,7 @@
 </p>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=35&duration=4000&pause=1000&color=764BA2&center=true&vCenter=true&random=false&width=500&lines=Hi+👋,+I'm+MurexTheCoder;Software+Engineer;Problem+Solver;Continuous+Learner" alt="Typing SVG" />
+  <img src="./assets/typing.svg" width="500" alt="Typing Animation" />
 </h1>
 
 ---

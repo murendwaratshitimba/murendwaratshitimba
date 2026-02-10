@@ -4,7 +4,7 @@
 </p>
 
 <h1 align="center">
-  <img src="./assets/typing.svg" width="500" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.vercel.app/?font=Fira+Code&size=35&pause=1000&color=764BA2&center=true&vCenter=true&width=500&lines=Hi+👋,+I'm+MurexTheCoder;Software+Engineer;Problem+Solver;Continuous+Learner" alt="Typing SVG" />
 </h1>
 
 ---

@@ -9,7 +9,9 @@
 
 ---
 
-## 🔥 Tech Stack & Expertise
+<h2 align="center"> 🔥 Tech Stack & Expertise </h2>
+
+---
 
 ### 💻 Programming Languages
 <p align="center">

@@ -88,25 +88,6 @@
 
 <br>
 
-## 🎬 YouTube Playlists
-
-<table align="center">
-  <tr>
-    <!-- Playlist 1 -->
-    <td align="center" width="200">
-      <a href="https://www.youtube.com/playlist?list=PL7io6mkQl2_uwbXbsQ3o5S1MWqqNDXurH" target="_blank">
-        <img src="https://img.youtube.com/vi/uwbXbsQ3o5S1MWqqNDXurH/mqdefault.jpg" width="180" alt="Playlist Thumbnail" />
-      </a>
-      <br>
-      <strong>Python Tutorials</strong>
-      <br>
-    </td>
-    
-  </tr>
-</table>
-
-<br>
-
 ## 🌟 Connect With Me
 
 <br>

@@ -88,6 +88,30 @@
 
 <br>
 
+## 🎥 YouTube Content
+
+<div align="center">
+  
+  ### 🔥 Featured Playlists
+  
+  <!-- Playlist 1 -->
+  <a href="https://www.youtube.com/playlist?list=PL7io6mkQl2_uwbXbsQ3o5S1MWqqNDXurH" target="_blank">
+    <img src="https://img.shields.io/badge/-Tutorials-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+  </a>
+  <a href="https://www.youtube.com/playlist?list=PL7io6mkQl2_smw5eLRu5m44WDJkokVLMO" target="_blank">
+    <img src="https://img.shields.io/badge/-Coding%20Tips-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+  </a>
+  <a href="https://www.youtube.com/playlist?list=PL7io6mkQl2_so8AZrwQTmiLwu3aTNZdAZ" target="_blank">
+    <img src="https://img.shields.io/badge/-Project%20Walkthroughs-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+  </a>
+  
+  <br><br>
+
+  
+</div>
+
+<br>
+
 ## 🌟 Connect With Me
 
 <br>

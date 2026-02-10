@@ -7,11 +7,11 @@
   <img src="https://readme-typing-svg.vercel.app/?font=Fira+Code&size=35&pause=1000&color=764BA2&center=true&vCenter=true&width=500&lines=Hi+👋,+I'm+MurexTheCoder;Software+Engineer;Problem+Solver;Continuous+Learner" alt="Typing SVG" />
 </h1>
 
----
+
 
 <h2 align="center"> 🔥 Tech Stack & Expertise </h2>
 
----
+
 
 ### 💻 Programming Languages
 <br>
@@ -39,7 +39,7 @@
 </p>
 <br>
 
----
+
 
 ## 📊 GitHub Analytics
 
@@ -65,7 +65,6 @@
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/murendwaratshitimba/murendwaratshitimba/output/pacman-contribution-graph.svg">
 </picture>
 
----
 
 ## 🎯 YouTube Channel
 
@@ -76,7 +75,6 @@
          <img alt="YouTube Channel Views" src="https://img.shields.io/youtube/channel/views/UCm3moBxexOnsaGSMoquscHg?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600" ></a> 
 </p>
 
----
 
 ## 🌟 Connect With Me
 

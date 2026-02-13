@@ -1,6 +1,9 @@
 <!-- ===================== ANIMATED BANNER ===================== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient:0:667eea,50:764ba2,100:f093fb&height=300&section=header&text=Murendwa%20Ratshitimba&fontSize=70&fontColor=ffffff&animation=scaleIn&fontAlignY=45&desc=Software%20Engineer%20%7C%20Tech%20Enthusiast&descSize=20&descAlignY=70" />
+  <img 
+    src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0f2027,50:203a43,100:2c5364&section=header&text=Murendwa%20Ratshitimba&fontSize=65&fontColor=ffffff&animation=fadeIn&fontAlignY=40"
+    width="100%"
+  />
 </p>
 
 <h1 align="center">
